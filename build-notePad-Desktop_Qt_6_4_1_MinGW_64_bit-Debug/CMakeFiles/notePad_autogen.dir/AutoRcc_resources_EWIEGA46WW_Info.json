@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "D:/QT/notepad/build-notePad-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/notePad_autogen",
+	"CMAKE_BINARY_DIR" : "D:/QT/notepad/build-notePad-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/QT/notepad/build-notePad-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/QT/notepad/notePad",
+	"CMAKE_SOURCE_DIR" : "D:/QT/notepad/notePad",
+	"INCLUDE_DIR" : "D:/QT/notepad/build-notePad-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/notePad_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/QT/notepad/notePad/images/redo.png",
+		"D:/QT/notepad/notePad/images/zoomout.png",
+		"D:/QT/notepad/notePad/images/new.png",
+		"D:/QT/notepad/notePad/images/zoomin.jpg",
+		"D:/QT/notepad/notePad/images/delete.png",
+		"D:/QT/notepad/notePad/images/saveAs.png",
+		"D:/QT/notepad/notePad/images/exit.png",
+		"D:/QT/notepad/notePad/images/help.png",
+		"D:/QT/notepad/notePad/images/open.png",
+		"D:/QT/notepad/notePad/images/find.png",
+		"D:/QT/notepad/notePad/images/print.png",
+		"D:/QT/notepad/notePad/images/undo.png",
+		"D:/QT/notepad/notePad/images/copy.png",
+		"D:/QT/notepad/notePad/images/paste.png",
+		"D:/QT/notepad/notePad/images/cut.png"
+	],
+	"LOCK_FILE" : "D:/QT/notepad/build-notePad-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/notePad_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/QT/notepad/build-notePad-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/notePad_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/QT/notepad/notePad/resources.qrc",
+	"VERBOSITY" : 0
+}

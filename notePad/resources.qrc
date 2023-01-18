@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/exit.png</file>
+        <file>images/new.png</file>
+        <file>images/paste.png</file>
+        <file>images/print.png</file>
+        <file>images/saveAs.png</file>
+        <file>images/zoomin.jpg</file>
+        <file>images/undo.png</file>
+        <file>images/redo.png</file>
+        <file>images/find.png</file>
+        <file>images/open.png</file>
+        <file>images/cut.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/help.png</file>
+        <file>images/delete.png</file>
+    </qresource>
+</RCC>
